@@ -1,6 +1,6 @@
 class BaseService
   def self.connection
-    Faraday.new(url: 'https://moon-garden-be.herokuapp.com')
+    Faraday.new(url: 'https://moongardensbe.fly.dev')
   end
 
   def self.get_json(response)
