@@ -3,11 +3,11 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://moon-garden-fe.herokuapp.com/" target="_blank" rel="noopener noreferrer"><img src="./public/moon-garden-logo.svg" alt="logo" width="30%"/></a>
+  <a href="https://moongarden.fly.dev/" target="_blank" rel="noopener noreferrer"><img src="./public/moon-garden-logo.svg" alt="logo" width="30%"/></a>
 </div>
 
   <p align="center">
-    <a href="https://moon-garden-fe.herokuapp.com/"><strong>Checkout Moon Garden Here! »</strong></a>
+    <a href="https://moongarden.fly.dev/"><strong>Checkout Moon Garden Here! »</strong></a>
   </p>
   <p align="center">
     <a href="https://github.com/Moon-Garden/moon_garden_be"><strong>Explore the Moon Garden Backend Application »</strong></a>
