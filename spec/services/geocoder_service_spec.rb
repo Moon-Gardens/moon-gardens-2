@@ -8,9 +8,9 @@ RSpec.describe GeocoderService do
       expect(response).to be_a Hash
       expect(response[:results]).to be_an Array
       expect(response[:results].first[:locations].first[:latLng][:lat])
-      .to eq(38.892062)
+      .to be_a Float
       expect(response[:results].first[:locations].first[:latLng][:lng])
-      .to eq(-77.019912)
+      .to be_a Float
     end
   end
 end
